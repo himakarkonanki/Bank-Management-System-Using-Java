@@ -1,0 +1,1 @@
+This project, executed in NetBeans IDE, includes various classes such as Signup, Login, Balance Enquiry, and Withdrawal, among others. It also incorporates image icons for an enhanced Graphical User Interface.
